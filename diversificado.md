@@ -1,0 +1,6 @@
+---
+description: /diversificado/
+---
+
+# 💡 Diversificado
+
