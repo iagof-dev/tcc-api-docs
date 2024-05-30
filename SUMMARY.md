@@ -15,5 +15,5 @@
 * [📷 Imagens](imagens.md)
 * [📑 Sinopse](sinopse.md)
 * [💡 Diversificado](diversificado.md)
-* [🏨 Editora](editora.md)
-* [✍️ Autor](autor.md)
+* [🏨 Editoras](editoras.md)
+* [✍️ Autores](autores.md)
