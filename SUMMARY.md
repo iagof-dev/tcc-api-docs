@@ -17,3 +17,4 @@
 * [💡 Diversificado](diversificado.md)
 * [🏨 Editoras](editoras.md)
 * [✍️ Autores](autores.md)
+* [😆 Generos Livros](generos-livros.md)
