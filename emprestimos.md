@@ -52,6 +52,6 @@ Resultado:
 
 ## POST
 
-/criar/ - Criar um emprestimo \[NOT FINISHED]
+/registrar/ - Criar um emprestimo \[RM<mark style="color:red;">\*</mark>, id\_bibliotecaria<mark style="color:red;">\*</mark>, id\_livro<mark style="color:red;">\*</mark>, data\_aluguel<mark style="color:red;">\*</mark>, id\_status\_emprestimo<mark style="color:red;">\*</mark>, prazo<mark style="color:red;">\*</mark>]
 
 /modificar/ - Modificar estado do emprestimo \[ID<mark style="color:red;">\*</mark>,ID\_ESTADO<mark style="color:red;">\*</mark>]
