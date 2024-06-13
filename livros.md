@@ -12,9 +12,11 @@ description: /livros/
 
 /listar/genero/<mark style="color:purple;">\[ID\_GENERO]</mark> - Listar livro por genero
 
-\-/listar/titulo/<mark style="color:purple;">\[VALOR]</mark> - Listar livro por titulo (Autocompletar)
+/listar/titulo/<mark style="color:purple;">\[VALOR]</mark> - Listar livro por titulo (Autocompletar)
 
-\-/listar/autor/<mark style="color:purple;">\[VALOR]</mark> - Listar livro por autor (Autocompletar)
+/listar/autor/<mark style="color:purple;">\[VALOR]</mark> - Listar livro por autor (Autocompletar)
+
+/codigos/ - Listar todos os códigos de todos os livros registrados.
 
 Resultado:
 
