@@ -23,5 +23,3 @@ Resultado:
 }
 ```
 
-## POST
-
