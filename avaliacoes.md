@@ -51,3 +51,5 @@ Resultado <mark style="color:yellow;">média</mark>:
 
 ## POST
 
+/criar/ - \[id\_livro<mark style="color:red;">\*</mark>, rm\_aluno<mark style="color:red;">\*</mark>, avaliacao<mark style="color:red;">\*</mark>]
+
