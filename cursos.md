@@ -59,5 +59,3 @@ Resultado:
   ]
 }
 ```
-
-## POST
