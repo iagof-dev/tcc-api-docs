@@ -109,6 +109,6 @@ Resultado:
 
 /registrar/ - Criar um emprestimo \[RM<mark style="color:red;">\*</mark>, ID\_LIVRO<mark style="color:red;">\*</mark>, DATA\_ALUGUEL<mark style="color:red;">\*</mark>, ID\_STATUS\_EMPRESTIMO<mark style="color:red;">\*</mark>, PRAZO<mark style="color:red;">\*</mark>]
 
-/modificar/ - Modificar estado do emprestimo \[ID<mark style="color:red;">\*</mark>,ID\_ESTADO<mark style="color:red;">\*</mark>]
+/modificar/ - Modificar estado do emprestimo \[ID<mark style="color:red;">\*</mark>, id\_status\_emprestimo<mark style="color:red;">\*</mark>]
 
 /estender/ - Estender prazo de devolução \[ID\_EMPRESTIMO<mark style="color:red;">\*</mark>, novo\_prazo<mark style="color:red;">\*</mark>]
