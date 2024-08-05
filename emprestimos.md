@@ -111,4 +111,4 @@ Resultado:
 
 /modificar/ - Modificar estado do emprestimo \[ID<mark style="color:red;">\*</mark>,ID\_ESTADO<mark style="color:red;">\*</mark>]
 
-/extender/ - Extender prazo de devolução \[ID\_EMPRESTIMO<mark style="color:red;">\*</mark>, novo\_prazo<mark style="color:red;">\*</mark>]
+/estender/ - Extender prazo de devolução \[ID\_EMPRESTIMO<mark style="color:red;">\*</mark>, novo\_prazo<mark style="color:red;">\*</mark>]
