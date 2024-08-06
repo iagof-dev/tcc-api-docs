@@ -15,9 +15,12 @@ Resultado:
   "status": "success",
   "DATA": [
     {
-      "id": 1,
+      "coordenador_id": 1,
       "nome": "Roberto Carlos",
-      "telefone": "1122334455"
+      "telefone": "1122334455",
+      "ano": 2023,
+      "curso": "Desenvolvimento de Sistemas",
+      "periodo": "Matutino"
     }
   ]
 }
