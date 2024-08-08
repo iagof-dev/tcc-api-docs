@@ -70,4 +70,4 @@ Resultado:
 
 /modificar/ - Modificar informações | \[ID<mark style="color:red;">\*</mark>]
 
-/deletar/ - Deletar livro | \[ID<mark style="color:red;">\*</mark>]
+/deletar/id/ - Deletar livro por id | \[ID<mark style="color:red;">\*</mark>]
