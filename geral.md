@@ -1,5 +1,6 @@
 ---
 description: /geral/
+hidden: true
 ---
 
 # ☑️ Geral
