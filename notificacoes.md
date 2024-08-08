@@ -39,3 +39,5 @@ Resultado:
 
 ## POST
 
+/registrar/ - Registrar notificação \[id\_aluno<mark style="color:red;">\*</mark>,id\_emprestimo<mark style="color:red;">\*</mark>,data\_envio<mark style="color:red;">\*</mark>,iteracao<mark style="color:red;">\*</mark>]
+
