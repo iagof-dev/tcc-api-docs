@@ -14,8 +14,10 @@ Resultado:
 
 ```
 {
-	"status": "success",
-	"message": "QUINCAS BORBA, escrita por Machado de Assis, narra a história de Rubião, um simples professor de Barbacena que herda a fortuna de seu amigo Quincas Borba. Ao mudar-se para o Rio de Janeiro, Rubião se vê imerso em um mundo de intrigas, vaidades e ambições. Influenciado pelo filosofia do Humanitismo de Quincas Borba, que pre",
-	"total-used-tokens": 215
+  "status": "success",
+  "ai_model": "gemini-1.5-flash-latest",
+  "message": "Greg Heffley, um garoto de 12 anos, narra seu cotidiano em um diário cheio de peripécias. Do primeiro dia de aula a desafios com amigos e família, Greg tenta sobreviver à adolescência e se tornar popular, enfrentando situações hilárias e constrangedoras. Através de desenhos e textos engraçados, o leitor acompanha as aventuras de Greg e suas tentativas de se encaixar no mundo.\n",
+  "index": 0,
+  "total-used-tokens": 201
 }
 ```
