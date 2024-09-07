@@ -66,7 +66,7 @@ Resultado:
 
 ## POST
 
-/criar/ - Criar livro | \[ID, CODIGO<mark style="color:red;">\*</mark>, TITULO<mark style="color:red;">\*</mark>, ID\_AUTOR<mark style="color:red;">\*</mark>, ID\_EDITORA<mark style="color:red;">\*</mark>, CAPA<mark style="color:red;">\*</mark>, VOLUMES<mark style="color:red;">\*</mark>, SINOPSE<mark style="color:red;">\*</mark>]
+/criar/ - Criar livro | \[CODIGO<mark style="color:red;">\*</mark>, TITULO<mark style="color:red;">\*</mark>, ID\_AUTOR<mark style="color:red;">\*</mark>, ID\_EDITORA<mark style="color:red;">\*</mark>, CAPA<mark style="color:red;">\*</mark>, VOLUMES<mark style="color:red;">\*</mark>, SINOPSE<mark style="color:red;">\*</mark>]
 
 /modificar/ - Modificar informações | \[ID<mark style="color:red;">\*</mark>]
 
