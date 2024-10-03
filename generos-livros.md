@@ -33,3 +33,5 @@ Resultado:
 ## POST
 
 /inserir/ - Inserir generos livros \[id\_genero<mark style="color:red;">\*</mark>, id\_livro<mark style="color:red;">\*</mark>]
+
+/remover/ - Remover generos livros \[id\_genero<mark style="color:red;">\*</mark>, id\_livro<mark style="color:red;">\*</mark>]
